@@ -1,0 +1,9 @@
+{
+    "name": "exaliar/fabryka-abstrakcyjna-menu",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FabrykaAbstrakcyjnaMenu\\": "./"
+        }
+    }
+}
